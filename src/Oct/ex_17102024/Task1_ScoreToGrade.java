@@ -2,7 +2,7 @@ package Oct.ex_17102024;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Task1_ScoreToGrade {
     public static void main(String[] args) {
         // Write a program that calculates and displays the letter grade
 // for a given numerical score (e.g., A, B, C, D, or F)
@@ -28,7 +28,12 @@ public class Task1 {
             System.out.println("Grade obtained is -"+ 'D');
         }
         else if (score>=0 && score<60) {
-            System.out.println("Grade obtained is -60"+ 'E');
+            System.out.println("Grade obtained is -"+ 'E');
         }
+        else if (score<0 || score>100) {
+            System.out.println("Lol! You are god..");
+            System.out.println("Grade obtained is -"+ 'O');
+        }
+
     }
 }
