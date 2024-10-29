@@ -1,4 +1,4 @@
-package Oct.ex_09102024;
+package Oct.ex_09102024printf;
 
 public class TableUsing_printfCommand {
     public static void main(String[] args) {
