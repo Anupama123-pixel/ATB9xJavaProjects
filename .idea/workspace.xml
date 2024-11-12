@@ -4,16 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f67bbaf-d21f-4dc0-9187-7031ea904fa1" name="Changes" comment="Functions(Arithmetic operators)">
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Task_simpleTable_of_10s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/Lab_Strings_SCP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_25102024/lab_Srting_SOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Lab_StringBuffer_StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Lab_String_Functions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_28102024/Task_28102024.java" afterDir="false" />
+    <list default="true" id="2f67bbaf-d21f-4dc0-9187-7031ea904fa1" name="Changes" comment="Task_28102024">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Lab_Oops_Object_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Lab_StudentsATB_ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Task_Car_ObjectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Task_Car_RunClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructor_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructor_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_GrandFather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Multilevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Mother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/Lab_SI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/son.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example2/Programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example2/Python.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/Common_baseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/Lab_RealTC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Encapsulation/Lab_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Encapsulation/Lab_ecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Lab_TestHierarchical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Lucky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Pramod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Roushan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverloading/Lab01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverloading/Lab02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverriding/Lab01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Criminal/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/Jr_cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/Lab_ecap_AM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/cop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Base_Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab_Arrays_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab_Arrays_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Array_2D_Literals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Array_Exceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Arrays_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Arrays_For_Each.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Right_Triangle_2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Task_LeftTriangle_Star_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_02102024/Lab001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oct/ex_09102024/TableUsing_printfCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oct/ex_09102024printf/TableUsing_printfCommand.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +99,13 @@
   "keyToString": {
     "Application.Lab001.executor": "Run",
     "Application.LabEx_Switch01.executor": "Run",
+    "Application.Lab_Array_2D_Literals.executor": "Run",
+    "Application.Lab_Array_Exceptions.executor": "Run",
+    "Application.Lab_Arrays_2D.executor": "Run",
+    "Application.Lab_Arrays_For_Each.executor": "Run",
+    "Application.Lab_Arrays_P1.executor": "Run",
+    "Application.Lab_Oops_Object_Class.executor": "Run",
+    "Application.Lab_Right_Triangle_2D.executor": "Debug",
     "Application.Lab_String_Functions.executor": "Run",
     "Application.Oct.ex_02102024.Lab001.executor": "Run",
     "Application.Oct.ex_16102024.Task1.executor": "Run",
@@ -67,7 +116,9 @@
     "Application.Task2.executor": "Run",
     "Application.Task2_Configure_Triangle.executor": "Run",
     "Application.Task_28102024.executor": "Run",
+    "Application.Task_Car_RunClass.executor": "Run",
     "Application.Task_Functions01.executor": "Run",
+    "Application.Task_LeftTriangle_Star_Pattern.executor": "Run",
     "Application.Testlab.executor": "Run",
     "Application.labEx_SwitchStBrowserexample.executor": "Run",
     "Application.lab_Srting_OC.executor": "Run",
@@ -266,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729750713725</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Task_28102024">
+      <option name="closed" value="true" />
+      <created>1730212251024</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1730212251025</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,6 +334,7 @@
     <MESSAGE value="Score to grade calculator" />
     <MESSAGE value="Configure triangle" />
     <MESSAGE value="Functions(Arithmetic operators)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Functions(Arithmetic operators)" />
+    <MESSAGE value="Task_28102024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_28102024" />
   </component>
 </project>
