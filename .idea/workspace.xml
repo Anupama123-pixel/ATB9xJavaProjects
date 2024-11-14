@@ -4,58 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f67bbaf-d21f-4dc0-9187-7031ea904fa1" name="Changes" comment="Task_28102024">
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Lab_Oops_Object_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Lab_StudentsATB_ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Task_Car_ObjectClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_05112024_Oops_Concept/Task_Car_RunClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructor_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructor_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_06112024_Constructor/Lab_Constructors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_GrandFather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/Multilevel/Lab_Multilevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/MultipleInheritance/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/Lab_SI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example1/son.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example2/Programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Example2/Python.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/Common_baseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/Lab_RealTC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Encapsulation/Lab_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Encapsulation/Lab_ecap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Lab_TestHierarchical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Lucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Pramod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Inheritance/Roushan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverloading/Lab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverloading/Lab02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_08112024_Polymorphism/MethodOverriding/Lab01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Criminal/Thief.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/Jr_cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/Lab_ecap_AM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Police/cop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Base_Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Nov/ex_11112024_Encapsulation_Part2/Real/Test_Case3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab_Arrays_P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_29102024/Lab_Arrays_P2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Array_2D_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Array_Exceptions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Arrays_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Arrays_For_Each.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Lab_Right_Triangle_2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oct/ex_30102024/Task_LeftTriangle_Star_Pattern.java" afterDir="false" />
+    <list default="true" id="2f67bbaf-d21f-4dc0-9187-7031ea904fa1" name="Changes" comment="All till now">
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Interface_P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Interface_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Interface_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Lab_157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Lab_158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Lab_159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Lab_InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Lab_Super_keyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Nov/ex_12112024_Superkeyword_Abstraction/Tesla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Nov/ex_07112024/SingleInheritance/Real/TestCase1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,8 +57,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Interface_P2.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.LabEx_Switch01.executor": "Run",
+    "Application.Lab_159.executor": "Run",
     "Application.Lab_Array_2D_Literals.executor": "Run",
     "Application.Lab_Array_Exceptions.executor": "Run",
     "Application.Lab_Arrays_2D.executor": "Run",
@@ -107,6 +69,8 @@
     "Application.Lab_Oops_Object_Class.executor": "Run",
     "Application.Lab_Right_Triangle_2D.executor": "Debug",
     "Application.Lab_String_Functions.executor": "Run",
+    "Application.Lab_SuperKeyword.executor": "Run",
+    "Application.Lab_Super_keyword.executor": "Run",
     "Application.Oct.ex_02102024.Lab001.executor": "Run",
     "Application.Oct.ex_16102024.Task1.executor": "Run",
     "Application.Oct.ex_17102024.Task1.executor": "Run",
@@ -130,13 +94,52 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Lab001" />
+  <component name="RunManager" selected="Application.Interface_P2">
+    <configuration name="Interface_P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_Superkeyword_Abstraction.Interface_P2" />
       <module name="ATB9xJavaProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024.*" />
+          <option name="PATTERN" value="Nov.ex_12112024_Superkeyword_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_Superkeyword_Abstraction.Lab_159" />
+      <module name="ATB9xJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_12112024_Superkeyword_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_SuperKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_Superkeyword_Abstraction.Lab_SuperKeyword" />
+      <module name="ATB9xJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_12112024_Superkeyword_Abstraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_Super_keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nov.ex_12112024_Superkeyword_Abstraction.Lab_Super_keyword" />
+      <module name="ATB9xJavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Nov.ex_12112024_Superkeyword_Abstraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,46 +153,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Oct.ex_15102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_Functions01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_23102024.Task_Functions01" />
-      <module name="ATB9xJavaProjects" />
-      <option name="PROGRAM_PARAMETERS" value="5,5" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_23102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Testlab" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_02102024.Testlab" />
-      <module name="ATB9xJavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_02102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="labEx_SwitchStBrowserexample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oct.ex_18102024.labEx_SwitchStBrowserexample" />
-      <module name="ATB9xJavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Oct.ex_18102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,19 +175,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Task1" />
-      <item itemvalue="Application.Lab001" />
+      <item itemvalue="Application.Interface_P2" />
+      <item itemvalue="Application.Lab_159" />
+      <item itemvalue="Application.Lab_SuperKeyword" />
+      <item itemvalue="Application.Lab_Super_keyword" />
       <item itemvalue="Application.lab_Srting_SOP" />
-      <item itemvalue="Application.Task_Functions01" />
-      <item itemvalue="Application.Testlab" />
-      <item itemvalue="Application.labEx_SwitchStBrowserexample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interface_P2" />
+        <item itemvalue="Application.Lab_159" />
+        <item itemvalue="Application.Lab_Super_keyword" />
+        <item itemvalue="Application.Lab_SuperKeyword" />
         <item itemvalue="Application.lab_Srting_SOP" />
-        <item itemvalue="Application.Lab001" />
-        <item itemvalue="Application.Task_Functions01" />
-        <item itemvalue="Application.Testlab" />
-        <item itemvalue="Application.labEx_SwitchStBrowserexample" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730212251025</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="All till now">
+      <option name="closed" value="true" />
+      <created>1731371708851</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731371708851</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -335,6 +306,7 @@
     <MESSAGE value="Configure triangle" />
     <MESSAGE value="Functions(Arithmetic operators)" />
     <MESSAGE value="Task_28102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_28102024" />
+    <MESSAGE value="All till now" />
+    <option name="LAST_COMMIT_MESSAGE" value="All till now" />
   </component>
 </project>
